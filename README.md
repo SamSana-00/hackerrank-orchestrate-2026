@@ -123,7 +123,7 @@ After a successful submission, your AI Judge interview will happen within a few 
 
 The AI Judge will have access to your submission and may ask about your approach, decisions, and how you used AI while building your solution. The interview will be 30 minutes long, and keeping your camera on is mandatory.
 
-Results will be announced on May 15, 2026
+Results will be announced on May 15, 2026.
 
 ---
 
